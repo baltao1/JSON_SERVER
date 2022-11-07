@@ -1,0 +1,45 @@
+{
+  "name": "evaluation",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "typescript": "^4.7.4",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "http-server",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "homepage": "http://.",
+  "description": "## Submission Instructions [Please note]",
+  "main": "./src/scripts/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baltao1/JSON_SERVER.git"
+  },
+  "author": "Akash Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baltao1/JSON_SERVER/issues"
+  }
+}

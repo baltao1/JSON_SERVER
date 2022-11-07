@@ -9,6 +9,7 @@
   },
   "scripts": {
     "start": "node server.js",
+    "web": "node src/server.js",
     "cypress:open": "cypress open",
     "cypress:run": "cypress run"
   },

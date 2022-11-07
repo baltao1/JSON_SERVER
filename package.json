@@ -9,7 +9,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "node ./src/scripts/index.js",
     "cypress:open": "cypress open",
     "cypress:run": "cypress run"
   },

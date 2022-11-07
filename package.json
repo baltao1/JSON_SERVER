@@ -32,7 +32,7 @@
   },
   "homepage": "http://.",
   "description": "## Submission Instructions [Please note]",
-  "main": "./src/scripts/index.js",
+  "main": "/src/scripts/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/baltao1/JSON_SERVER.git"
